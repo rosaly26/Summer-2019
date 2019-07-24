@@ -3,6 +3,7 @@ body {
   color: lavender;
   font-family: 'Trebuchet MS', sans-serif;
   margin: 10px 30px 10px 30px; /* top, right, bottom, left */
+  /* text-align: center; */
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
 }
 
 h2 {
-  color: springgreen:
+  color: black;
 }
 
 a {
@@ -28,6 +29,10 @@ div {
   border-bottom: 2px solid teal;
 }
 
+.pop {
+  color: lightcoral;
+}
+
 .past {
   height: 250px;
 }
@@ -39,4 +44,11 @@ div {
 .caption {
   font-size: 12px;
   font-style: italic;;
+}
+
+.Pics {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
