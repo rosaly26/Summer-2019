@@ -26,9 +26,11 @@ function toggleImg() {
 }
 
 function expand() {
-
+  var zoom= document.ElementbyId("zoom");
+  zoom("lol") height="300px"
 }
 
 function unexpand() {
-  
+  var zoom= document.ElementbyId("zoom");
+  zoom("lol") height="200px"
 }
