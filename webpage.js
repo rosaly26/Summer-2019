@@ -8,7 +8,7 @@ function openImage() {
 }
 
 function hide() {
-  window.alert("hide");
+//   window.alert("hide");
   var img= document.getElementById('lol');
   var img1= document.getElementById('lol1');
   img.style.display="none";
