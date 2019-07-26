@@ -1,0 +1,19 @@
+body {
+  background-color: sandybrown;
+  color: cyan;
+  font-family: 'Didot', serif;
+  font-size: 20px;
+  margin: 10px 30px 10px 30px; /* top, right, bottom, left */
+  /* text-align: center; */
+}
+
+
+p {
+  font-size: 20px;
+  color: blueviolet;
+  margin: cent
+}
+
+a {
+  color:midnightblue;
+}

@@ -17,8 +17,12 @@ h2 {
   color: black;
 }
 
+h4 {
+  color: khaki;
+}
+
 a {
-  color: purple;
+  color: plum;
 }
 
 div {
@@ -51,4 +55,14 @@ div {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+
+.Pics2 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.splash {
+  color: white;
 }
